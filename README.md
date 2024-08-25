@@ -1,4 +1,5 @@
-Overview: This project harnesses SQL for advanced data analysis and Power BI for interactive and dynamic dashboard visualizations. The objective is to optimize data integrity, automate processes through the use of stored procedures, and enhance operational efficiency by reducing manual and repetitive tasks.
+Overview: This project harnesses SQL for advanced data analysis and Power BI for interactive and dynamic dashboard visualizations.
+The objective is to optimize data integrity, automate processes through the use of stored procedures, and enhance operational efficiency by reducing manual and repetitive tasks.
 
 Goals:
 
