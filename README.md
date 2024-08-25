@@ -1,10 +1,8 @@
-Overview: This project harnesses SQL for advanced data analysis and Power BI for interactive and dynamic dashboard visualizations.
-The objective is to optimize data integrity, automate processes through the use of stored procedures, and enhance operational efficiency by reducing manual and repetitive tasks.
+Overview: This project leverages SQL for sophisticated data analysis and Power BI for interactive and dynamic dashboard visualizations. The primary goals are to optimize data integrity, automate processes through the use of stored procedures, and boost operational efficiency by minimizing manual and repetitive tasks. Additionally, a delete trigger has been implemented in the MySQL database to safeguard against data loss.
 
 Goals:
 
-Enhance Data Integrity: Implement SQL techniques to ensure data accuracy and consistency, addressing any anomalies or inconsistencies.
-Streamline Workflows: Utilize stored procedures to automate routine data management tasks, thereby improving efficiency and reducing the risk of manual errors.
-Improve Operational Efficiency: Apply automation strategies to minimize repetitive tasks and optimize workflow processes.
-Additionally, the project delivers a comprehensive analysis of Yulu's sales performance, utilizing advanced SQL queries and Power BI visualizations to identify critical influencing factors and trends. 
-Strategic recommendations are provided to enhance profitability and drive business growth, supported by data-driven insights and actionable intelligence.
+Enhance Data Integrity: Employ advanced SQL techniques to maintain data accuracy and consistency, addressing and rectifying anomalies or inconsistencies.
+Streamline Workflows: Implement stored procedures to automate routine data management tasks, thereby enhancing efficiency and minimizing manual errors.
+Improve Operational Efficiency: Create and apply stored procedures to automate repetitive tasks, optimizing workflow processes and increasing overall productivity.
+Furthermore, the project provides a thorough analysis of Yulu's sales performance, leveraging complex SQL queries and Power BI visualizations to identify key influencing factors and emerging trends. Strategic recommendations are made to boost profitability and foster business growth, grounded in data-driven insights and actionable intelligence.
